@@ -1,0 +1,18 @@
+GetNewTrumpInsult insult {firstname}
+GetNewTrumpInsult trump insult {firstname}
+
+GetNewTrumpInsult tell {firstname} a insult
+GetNewTrumpInsult tell {firstname} a trump insult
+
+GetNewTrumpInsult give {firstname} a trump insult
+GetNewTrumpInsult give {firstname} a insult
+
+GetNewTrumpInsult generate {firstname} trump insult
+GetNewTrumpInsult generate {firstname} a trump insult
+
+GetNewTrumpInsult tell {firstname} something
+GetNewTrumpInsult generate {firstname} something
+
+GetNewTrumpInsult roast {firstname}
+GetNewTrumpInsult burn {firstname}
+GetNewTrumpInsult tell {firstname} a burn
